@@ -502,10 +502,35 @@ a:link,
    visibility: visible;
   }
 
+
+
   #modal27:target .modal__content{
    opacity: 1;
    visibility: visible;
   }
+
+
+#modal28:target{
+   opacity: 1;
+   visibility: visible;
+  }
+
+  #modal28:target .modal__content{
+   opacity: 1;
+   visibility: visible;
+  }
+
+
+#modal29:target{
+   opacity: 1;
+   visibility: visible;
+  }
+
+  #modal29:target .modal__content{
+   opacity: 1;
+   visibility: visible;
+  }
+
 
 
 .model-btn {
