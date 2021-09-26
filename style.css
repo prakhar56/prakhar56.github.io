@@ -588,4 +588,16 @@ a:link,
     font-size: 17px;
 }
 
+.embed{
+position: sticky;
+display: flex;
+width: 100%;
+}
+
+#embed{
+position: relative;
+padding: 25px;
+margin: auto;
+}
+
 
