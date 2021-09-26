@@ -166,7 +166,7 @@ backdrop-filter: blur(4.5px);
   }
 
 .modal__content{
-   width: 94%;
+   width: 75%;
    height: auto;
    background-color: #fff;
    position: absolute;
