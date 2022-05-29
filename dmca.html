@@ -70,6 +70,31 @@ main {
 Made with ♥ in india </b><br> 
 
 </footer>
+
+
+
+<div class="nav">
+  <ul class="trigger">
+    <li><a href="https://animatedbackgrounds.me" class="menufont">Home</a></li>
+	<li><a href="https://animatedbackgrounds.me/contact.html" class="menufont">Contact</a></li>
+    <li><a href="https://animatedbackgrounds.me/about.html" class="menufont">About</a></li>
+    <li><a href="https://animatedbackgrounds.me/privacy.html" class="menufont">Privacy policy</a></li>
+    
+    <li><a href="https://animatedbackgrounds.me/dmca.html" class="menufont"><b>DMCA</b></a></li>
+  </ul>
+  <button class="popup">MENU</button>
+</div>
+<script>
+var button = document.querySelector('.popup'),
+    items = document.querySelectorAll('.trigger');
+var openCloseMenu = function() {
+  for(i=0; i < items.length; i++){
+    items[i].classList.toggle('slideout');
+  }
+}
+button.onclick = openCloseMenu;
+</script>
+
 </body>
 </html>
 
