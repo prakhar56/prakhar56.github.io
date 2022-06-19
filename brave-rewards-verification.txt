@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: animatedbackgrounds.me
+Token: 9bfcf0e76389441af7fd8ef5288844603cc5fa23100062d1eff785e401d37c07
