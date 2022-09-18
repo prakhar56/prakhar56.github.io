@@ -74,7 +74,7 @@ color: #ff3153;
   color: #444;
 }
 #reference > a + a {
-  margin-left: 0;
+  margin-left: 1rem;
 }
 
 footer {
