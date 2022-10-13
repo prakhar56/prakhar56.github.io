@@ -170,9 +170,16 @@ backdrop-filter: blur(4.5px);
    transition: all .5s;
   }
 
-.modal__content{
-   width: 75%;
+@media only screen and (max-width: 768px) {
+  .modal__content {
+    width: 75%;
    height: auto;
+  }
+}
+
+.modal__content{
+   width: auto;
+   height: 75%;
    background-color: #fff;
    position: absolute;
    top: 50%;
